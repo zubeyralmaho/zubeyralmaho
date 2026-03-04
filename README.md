@@ -5,5 +5,5 @@
 **LET'S BUILD**
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/zubeyr-almaho](https://linkedin.com/in/zubeyr-almaho
 - **Email:** almahozubeyr@gmail.com
