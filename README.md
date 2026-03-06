@@ -4,6 +4,5 @@
 
 **LET'S BUILD**
 
-### 📫 Let's Connect
 - **LinkedIn:** https://linkedin.com/in/zubeyr-almaho
 - **Email:** almahozubeyr@gmail.com
