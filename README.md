@@ -1,4 +1,4 @@
-# I'm Zübeyr
+# I'm Zybo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zubeyralmaho&color=blue&style=flat-square)
 
