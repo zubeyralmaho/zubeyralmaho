@@ -5,7 +5,7 @@
 **LET'S BUILD**
 
 - **LinkedIn:** https://linkedin.com/in/zubeyr-almaho
-- **Email:** almahozubeyr@gmail.com
+- **Email:** mail@zubeyralmaho.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubeyralmaho/zubeyralmaho/output/github-contribution-grid-snake-dark.svg" />
